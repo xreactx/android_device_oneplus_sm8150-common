@@ -430,7 +430,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     brillo_update_payload \
     update_engine \
-    update_engine_sideload \
+#    update_engine_sideload \
     update_verifier
 
 PRODUCT_PACKAGES_DEBUG += \
